@@ -1,0 +1,6 @@
+[submodule "cakephp"]
+	path = cakephp
+	url = git://github.com/cakephp/cakephp1x.git
+[submodule "zf"]
+	path = zf
+	url = git://github.com/tjohns/zf.git
