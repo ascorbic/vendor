@@ -4,3 +4,6 @@
 [submodule "zf"]
 	path = zf
 	url = git://github.com/tjohns/zf.git
+[submodule "doctrine"]
+	path = doctrine
+	url = git://github.com/ascorbic/doctrine-tracker.git
