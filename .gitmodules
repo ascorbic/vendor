@@ -4,3 +4,6 @@
 [submodule "zf"]
 	path = zf
 	url = git://github.com/tjohns/zf.git
+[submodule "facebook"]
+	path = facebook
+	url = http://github.com/facebook/php-sdk.git
