@@ -9,4 +9,4 @@
 	url = http://github.com/facebook/php-sdk.git
 [submodule "doctrine"]
 	path = doctrine
-	url = git://github.com/ascorbic/doctrine-tracker.git
+	url = https://github.com/doctrine/doctrine1.git
